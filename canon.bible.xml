@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="canon.xsd">
+	<!-- Collection name: bible -->
+	<!-- Old Testament -->
+	<book>
+		<id>Gen</id>
+		<abbr>Ge</abbr>
+		<abbr>Gene</abbr>
+		<abbr>Genes</abbr>
+		<name>Genesis</name>
+		<name>G</name>
+		<name>Gn</name>
+	</book>
+	<book>
+		<id>Exod</id>
+		<abbr>Exo</abbr>
+		<abbr>Ex</abbr>
+		<name>Exodus</name>
+		<name>E</name>
+	</book>
+	<book>
+		<id>Lev</id>
+		<abbr>Levit</abbr>
+		<name>Leviticus</name>
+		<name>Le</name>
+		<name>Lv</name>
+	</book>
+	<book>
+		<id>Num</id>
+		<abbr>Nu</abbr>
+		<abbr>Numb</abbr>
+		<name>Numbers</name>
+		<name>N</name>
+		<name>Nm</name>
+	</book>
+	<book>
+		<id>Deut</id>
+		<abbr>Deu</abbr>
+		<abbr>De</abbr>
+		<abbr>Deuter</abbr>
+		<abbr>De</abbr>
+		<name>Deuteronomy</name>
+		<name>D</name>	
+		<name>Dt</name>
+	</book>
+	<book>
+		<id>Josh</id>
+		<abbr>Jos</abbr>
+		<abbr>Jsa</abbr>
+		<abbr>Jsb</abbr>
+		<name>Joshua</name>
+		<name>J</name>
+		<name>Js</name>
+	</book>
+	<book>
+		<id>Judg</id>
+		<abbr>Jdg</abbr>
+		<abbr>Jda</abbr>
+		<abbr>Jdb</abbr>
+		<abbr>Jdc</abbr>
+		<abbr mode="olb">Jud</abbr>
+		<name>Judges</name>
+		<name>Jdgs</name>
+		<name>Jd</name>
+	</book>
+	<book>
+		<id>Ruth</id>
+		<abbr>Rut</abbr>
+		<abbr>Ru</abbr>
+		<name>Ruth</name>
+		<name>Rt</name>
+	</book>
+	<book>
+		<id>1Sam</id>
+		<abbr>1Sa</abbr>
+		<abbr>1S</abbr>
+		<abbr>1Rg</abbr>
+		<name>I Samuel</name>
+		<name>ISamuel</name>
+		<name>1 Samuel</name>
+		<name>1Samuel</name>
+		<name>I Kgdms</name>
+		<name>IKgdms</name>
+		<name>1 Kgdms</name>
+		<name>1Kgdms</name>
+		<name>I Kingdoms</name>
+		<name>IKingdoms</name>
+		<name>1 Kingdoms</name>
+		<name>1Kingdoms</name>
+	</book>
+	<book>
+		<id>2Sam</id>
+		<abbr>2Sa</abbr>
+		<abbr>2S</abbr>
+		<abbr>2Rg</abbr>
+		<name>II Samuel</name>
+		<name>IISamuel</name>
+		<name>2 Samuel</name>
+		<name>2Samuel</name>
+		<name>II Kgdms</name>
+		<name>IIKgdms</name>
+		<name>2 Kgdms</name>
+		<name>2Kgdms</name>
+		<name>II Kingdoms</name>
+		<name>IIKingdoms</name>
+		<name>2 Kingdoms</name>
+		<name>2Kingdoms</name>
+	</book>
+	<book>
+		<id>1Kgs</id>
+		<abbr>1Ki</abbr>
+		<abbr>1King</abbr>
+		<abbr>3Ki</abbr>
+		<abbr>3King</abbr>
+		<abbr>3Rg</abbr>
+		<name>I Kings</name>
+		<name>IKings</name>
+		<name>1 Kings</name>
+		<name>1Kings</name>
+		<name>I Kgs</name>
+		<name>IKgs</name>
+		<name>1 Kgs</name>
+		<name>1Kgs</name>
+		<name>III Kgdms</name>
+		<name>IIIKgdms</name>
+		<name>3 Kgdms</name>
+		<name>3Kgdms</name>
+		<name>III Kingdoms</name>
+		<name>IIIKingdoms</name>
+		<name>3 Kingdoms</name>
+		<name>3Kingdoms</name>
+		<name>III Kings</name>
+		<name>IIIKings</name>
+		<name>3 Kings</name>
+		<name>3Kings</name>
+		<name>III Kgs</name>
+		<name>IIIKgs</name>
+		<name>3 Kgs</name>
+		<name>3Kgs</name>
+		<name>I K</name>
+		<name>IK</name>
+		<name>1 K</name>
+		<name>1K</name>
+	</book>
+	<book>
+		<id>2Kgs</id>
+		<abbr>2Ki</abbr>
+		<abbr>2King</abbr>
+		<abbr>4Ki</abbr>
+		<abbr>4King</abbr>
+		<abbr>4Rg</abbr>
+		<name>II Kings</name>
+		<name>IIKings</name>
+		<name>2 Kings</name>
+		<name>2Kings</name>
+		<name>II Kgs</name>
+		<name>IIKgs</name>
+		<name>2 Kgs</name>
+		<name>2Kgs</name>
+		<name>IV Kgdms</name>
+		<name>IVKgdms</name>
+		<name>4 Kgdms</name>
+		<name>4Kgdms</name>
+		<name>IV Kingdoms</name>
+		<name>IVKingdoms</name>
+		<name>4 Kingdoms</name>
+		<name>4Kingdoms</name>
+		<name>IV Kings</name>
+		<name>IVKings</name>
+		<name>4 Kings</name>
+		<name>4Kings</name>
+		<name>IV Kgs</name>
+		<name>IVKgs</name>
+		<name>4 Kgs</name>
+		<name>4Kgs</name>
+		<name>II K</name>
+		<name>IIK</name>
+		<name>2 K</name>
+		<name>2K</name>
+	</book>
+	<book>
+		<id>1Chr</id>
+		<abbr>1Ch</abbr>
+		<abbr>1Chron</abbr>
+		<abbr>1Chro</abbr>
+		<abbr mode="westminster">1C</abbr>
+		<abbr>1Pa</abbr>
+		<abbr>1Par</abbr>
+		<abbr>1Para</abbr>
+		<abbr>1Paral</abbr>
+		<abbr>1Paralip</abbr>
+		<name>I Chronicles</name>
+		<name>IChronicles</name>
+		<name>1 Chronicles</name>
+		<name>1Chronicles</name>
+		<name>I Paralipomenon</name>
+		<name>IParalipomenon</name>
+		<name>1 Paralipomenon</name>
+		<name>1Paralipomenon</name>
+	</book>
+	<book>
+		<id>2Chr</id>
+		<abbr>2Ch</abbr>
+		<abbr>2Chron</abbr>
+		<abbr>2Chro</abbr>
+		<abbr mode="westminster">2C</abbr>
+		<abbr>2Pa</abbr>
+		<abbr>2Par</abbr>
+		<abbr>2Para</abbr>
+		<abbr>2Paral</abbr>
+		<abbr>2Paralip</abbr>
+		<name>II Chronicles</name>
+		<name>IIChronicles</name>
+		<name>2 Chronicles</name>
+		<name>2Chronicles</name>
+		<name>II Paralipomenon</name>
+		<name>IIParalipomenon</name>
+		<name>2 Paralipomenon</name>
+		<name>2Paralipomenon</name>
+	</book>
+	<book>
+		<id>Ezra</id>
+		<abbr>Ezr</abbr>
+		<abbr>Ez</abbr>
+		<abbr>Er</abbr>
+		<abbr>Esr</abbr>
+		<name>Ezra</name>
+	</book>
+	<book>
+		<id>Neh</id>
+		<abbr>Ne</abbr>
+		<abbr>Nehem</abbr>
+		<name>Nehemiah</name>
+	</book>
+	<book>
+		<id>Esth</id>
+		<abbr>Est</abbr>
+		<name>Esther</name>
+		<name>Ester</name>
+		<name>Es</name>
+	</book>
+	<book>
+		<id>Job</id>
+		<name>Job</name>
+		<name>Jb</name>
+	</book>
+	<book>
+		<id>Ps</id>
+		<abbr>Psa</abbr>
+		<abbr>Psal</abbr>
+		<name>Psalms</name>
+		<name>P</name>
+		<name>Psm</name>
+		<name>Pss</name>
+		<name>Psalm</name>
+	</book>
+	<book>
+		<id>Prov</id>
+		<abbr>Pro</abbr>
+		<name>Proverbs</name>
+		<name>Pr</name>
+	</book>
+	<book>
+		<id>Eccl</id>
+		<abbr>Ecc</abbr>
+		<abbr>Ec</abbr>
+		<abbr>Ecl</abbr>
+		<abbr>Eccles</abbr>
+		<name>Ecclesiastes</name>
+		<name>Qohelet</name>
+		<name>Qoheleth</name>
+	</book>
+	<book>
+		<id>Song</id>
+		<abbr>Sol</abbr>
+		<abbr>So</abbr>
+		<abbr>Song of Sol</abbr>
+		<abbr>SS</abbr>
+		<abbr>SSong</abbr>
+		<abbr>Cant</abbr>
+		<abbr>Canticle</abbr>
+		<abbr>Canticles</abbr>
+		<abbr>Sol. Song</abbr>
+		<abbr>Ca</abbr>
+		<abbr>Ct</abbr>
+		<name>Song of Solomon</name>
+		<name>Canticle of Canticles</name>
+		<name>Sng</name>
+		<name>Solomon</name>
+		<name>Song of Songs</name>
+		<name>S</name>
+	</book>
+	<book>
+		<id>Isa</id>
+		<abbr>Is</abbr>
+		<name>Isaiah</name>
+		<name>I</name>
+	</book>
+	<book>
+		<id>Jer</id>
+		<abbr>Jerem</abbr>
+		<abbr>Jere</abbr>
+		<abbr>Je</abbr>
+		<abbr>Jr</abbr>
+		<name>Jeremiah</name>
+	</book>
+	<book>
+		<id>Lam</id>
+		<abbr>La</abbr>
+		<abbr>Lament</abbr>
+		<abbr>Lamen</abbr>
+		<abbr>Lm</abbr>
+		<name>Lamentations</name>
+	</book>
+	<book>
+		<id>Ezek</id>
+		<abbr>Eze</abbr>
+		<abbr mode="Latin">Ez</abbr>
+		<name>Ezekiel</name>
+		<name>Ezk</name>
+		<name>Ek</name>
+	</book>
+	<book>
+		<id>Dan</id>
+		<abbr>Da</abbr>
+		<abbr>Dat</abbr>
+		<abbr>Dn</abbr>
+		<name>Daniel</name>
+	</book>
+	<book>
+		<id>Hos</id>
+		<abbr>Ho</abbr>
+		<abbr>Osee</abbr>
+		<abbr>Os</abbr>
+		<name>Hosea</name>
+	</book>
+	<book>
+		<id>Joel</id>
+		<abbr>Joe</abbr>
+		<abbr>Jl</abbr>
+		<name>Joel</name>
+		<name>Jol</name>
+	</book>
+	<book>
+		<id>Amos</id>
+		<abbr>Amo</abbr>
+		<abbr>Am</abbr>
+		<name>Amos</name>
+	</book>
+	<book>
+		<id>Obad</id>
+		<abbr>Oba</abbr>
+		<abbr>Ob</abbr>
+		<abbr>Abd</abbr>
+		<name>Obadiah</name>
+	</book>
+	<book>
+		<id>Jonah</id>
+		<abbr>Jon</abbr>
+		<abbr>Jona</abbr>
+		<abbr mode="westminster">Jn</abbr>
+		<name>Jonah</name>
+	</book>
+	<book>
+		<id>Mic</id>
+		<abbr>Mi</abbr>
+		<abbr>Mch</abbr>
+		<name>Micah</name>
+	</book>
+	<book>
+		<id>Nah</id>
+		<abbr>Na</abbr>
+		<name>Nahum</name>
+		<name>Nam</name>
+	</book>
+	<book>
+		<id>Hab</id>
+		<abbr>Habak</abbr>
+		<abbr>Ha</abbr>
+		<abbr>Hb</abbr>
+		<name>Habakkuk</name>
+	</book>
+	<book>
+		<id>Zeph</id>
+		<abbr>Zep</abbr>
+		<abbr>Zp</abbr>
+		<abbr>Soph</abbr>
+		<name>Zephaniah</name>
+	</book>
+	<book>
+		<id>Hag</id>
+		<abbr>Hagg</abbr>
+		<abbr>Hg</abbr>
+		<abbr>Agg</abbr>
+		<name>Haggai</name>
+	</book>
+	<book>
+		<id>Zech</id>
+		<abbr>Zec</abbr>
+		<abbr>Zc</abbr>
+		<abbr>Zach</abbr>
+		<name>Zechariah</name>
+	</book>
+	<book>
+		<id>Mal</id>
+		<abbr>Malach</abbr>
+		<abbr>Malac</abbr>
+		<abbr mode="westminster">Ma</abbr>
+		<name>Malachi</name>
+	</book>
+	<!-- New Testament -->
+	<book>
+		<id>Matt</id>
+		<abbr>Mat</abbr>
+		<abbr>Matth</abbr>
+		<abbr>St. Matt</abbr>
+		<abbr>St. Matthew</abbr>
+		<name>Matthew</name>
+		<name>Ma</name>
+		<name>Mt</name>
+	</book>
+	<book>
+		<id>Mark</id>
+		<abbr>Mar</abbr>
+		<abbr>Mr</abbr>
+		<abbr>St. Mark</abbr>
+		<abbr>Mc</abbr>
+		<name>Mark</name>
+		<name>Mk</name>
+		<name>Mrk</name>
+	</book>
+	<book>
+		<id>Luke</id>
+		<abbr>Luk</abbr>
+		<abbr>Lu</abbr>
+		<abbr>St. Luke</abbr>
+		<abbr>Lc</abbr>
+		<name>Luke</name>
+		<name>L</name>
+		<name>Lk</name>
+	</book>
+	<book>
+		<id>John</id>
+		<abbr>Joh</abbr>
+		<abbr>St. John</abbr>
+		<name>John</name>
+		<name>Jhn</name>
+		<name>Jn</name>
+		<name>Jo</name>
+	</book>
+	<book>
+		<id>Acts</id>
+		<abbr>Act</abbr>
+		<abbr>Ac</abbr>
+		<name>Acts</name>
+	</book>
+	<book>
+		<id>Rom</id>
+		<abbr>Ro</abbr>
+		<name>Romans</name>
+	</book>
+	<book>
+		<id>1Cor</id>
+		<abbr>1Co</abbr>
+		<abbr>1Corinth</abbr>
+		<abbr>1Corin</abbr>
+		<name>I Corinthians</name>
+		<name>ICorinthians</name>
+		<name>1 Corinthians</name>
+		<name>1Corinthians</name>
+		<name>I C</name>
+		<name>IC</name>
+		<name>1 C</name>
+		<name>1C</name>
+	</book>
+	<book>
+		<id>2Cor</id>
+		<abbr>2Co</abbr>
+		<abbr>2Corinth</abbr>
+		<abbr>2Corin</abbr>
+		<name>II Corinthians</name>
+		<name>IICorinthians</name>
+		<name>2 Corinthians</name>
+		<name>2Corinthians</name>
+		<name>II C</name>
+		<name>IIC</name>
+		<name>2 C</name>
+		<name>2C</name>
+	</book>
+	<book>
+		<id>Gal</id>
+		<abbr>Ga</abbr>
+		<abbr>Galat</abbr>
+		<name>Galatians</name>
+	</book>
+	<book>
+		<id>Eph</id>
+		<abbr>Ephes</abbr>
+		<abbr>Ep</abbr>
+		<name>Ephesians</name>
+	</book>
+	<book>
+		<id>Phil</id>
+		<abbr>Phi</abbr>
+		<abbr>Philipp</abbr>
+		<abbr>Philip</abbr>
+		<abbr>Phili</abbr>
+		<abbr>Ph</abbr>
+		<name>Philippians</name>
+		<name>Php</name>
+		<name>Phlp</name>
+	</book>
+	<book>
+		<id>Col</id>
+		<abbr>Coloss</abbr>
+		<abbr>Colos</abbr>
+		<abbr>Colo</abbr>
+		<abbr>Co</abbr>
+		<name>Colossians</name>
+		<name>C</name>
+	</book>
+	<book>
+		<id>1Thess</id>
+		<abbr>1Th</abbr>
+		<abbr>1Thes</abbr>
+		<abbr>1The</abbr>
+		<name>I Thessalonians</name>
+		<name>IThessalonians</name>
+		<name>1 Thessalonians</name>
+		<name>1Thessalonians</name>
+	</book>
+	<book>
+		<id>2Thess</id>
+		<abbr>2Th</abbr>
+		<abbr>2Thes</abbr>
+		<abbr>2The</abbr>
+		<name>II Thessalonians</name>
+		<name>IIThessalonians</name>
+		<name>2 Thessalonians</name>
+		<name>2Thessalonians</name>
+	</book>
+	<book>
+		<id>1Tim</id>
+		<abbr>1Ti</abbr>
+		<name>I Timothy</name>
+		<name>ITimothy</name>
+		<name>1 Timothy</name>
+		<name>1Timothy</name>
+	</book>
+	<book>
+		<id>2Tim</id>
+		<abbr>2Ti</abbr>
+		<name>II Timothy</name>
+		<name>IITimothy</name>
+		<name>2 Timothy</name>
+		<name>2Timothy</name>
+	</book>
+	<book>
+		<id>Titus</id>
+		<abbr>Tit</abbr>
+		<abbr>Titu</abbr>
+		<name>Titus</name>
+		<name>T</name>
+	</book>
+	<book>
+		<id>Phlm</id>
+		<abbr>Philem</abbr>
+		<abbr>Phile</abbr>
+		<name>Philemon</name>
+		<name>Phm</name>
+	</book>
+	<book>
+		<id>Heb</id>
+		<abbr>Hebr</abbr>
+		<abbr>He</abbr>
+		<abbr>Hbr</abbr>
+		<name>Hebrews</name>
+		<name>H</name>
+	</book>
+	<book>
+		<id>Jas</id>
+		<abbr>Jam</abbr>
+		<abbr>Jac</abbr>
+		<name>James</name>
+	</book>
+	<book>
+		<id>1Pet</id>
+		<abbr>1Pe</abbr>
+		<name>I Peter</name>
+		<name>IPeter</name>
+		<name>1 Peter</name>
+		<name>1Peter</name>
+		<name>I Ptr</name>
+		<name>IPtr</name>
+		<name>1 Ptr</name>
+		<name>1Ptr</name>
+		<name>I P</name>
+		<name>IP</name>
+		<name>1 P</name>
+		<name>1P</name>
+	</book>
+	<book>
+		<id>2Pet</id>
+		<abbr>2Pe</abbr>
+		<name>II Peter</name>
+		<name>IIPeter</name>
+		<name>2 Peter</name>
+		<name>2Peter</name>
+		<name>II Ptr</name>
+		<name>IIPtr</name>
+		<name>2 Ptr</name>
+		<name>2Ptr</name>
+		<name>II P</name>
+		<name>IIP</name>
+		<name>2 P</name>
+		<name>2P</name>
+	</book>
+	<book>
+		<id>1John</id>
+		<abbr>1Jo</abbr>
+		<abbr>1Joh</abbr>
+		<name>I John</name>
+		<name>IJohn</name>
+		<name>1 John</name>
+		<name>1John</name>
+		<name>I Jn</name>
+		<name>IJn</name>
+		<name>1 Jn</name>
+		<name>1Jn</name>
+	</book>
+	<book>
+		<id>2John</id>
+		<abbr>2Jo</abbr>
+		<abbr>2Joh</abbr>
+		<name>II John</name>
+		<name>IIJohn</name>
+		<name>2 John</name>
+		<name>2John</name>
+		<name>II Jn</name>
+		<name>IIJn</name>
+		<name>2 Jn</name>
+		<name>2Jn</name>
+	</book>
+	<book>
+		<id>3John</id>
+		<abbr>3Jo</abbr>
+		<abbr>3Joh</abbr>
+		<name>III John</name>
+		<name>IIIJohn</name>
+		<name>3 John</name>
+		<name>3John</name>
+		<name>III Jn</name>
+		<name>IIIJn</name>
+		<name>3 Jn</name>
+		<name>3Jn</name>
+	</book>
+	<book>
+		<id>Jude</id>
+		<abbr>Jud</abbr>
+		<name>Jude</name>
+		<name>Ju</name>
+	</book>
+	<book>
+		<id>Rev</id>
+		<abbr>Re</abbr>
+		<abbr>Revel</abbr>
+		<abbr>Apocalypse</abbr>
+		<abbr>Apocal</abbr>
+		<abbr>Apoc</abbr>
+		<abbr>Ap</abbr>
+		<abbr>Apocalypse of St. John</abbr>
+		<name>Revelation of John</name>
+		<name>Apocalypse of John</name>
+		<name>Apc</name>
+	</book>
+	<!-- Catholic Deuterocanon -->
+	<book>
+		<id>Tob</id>
+		<abbr>To</abbr>
+		<abbr>Tba</abbr>
+		<abbr>Tbs</abbr>
+		<name>Tobit</name>
+		<name>Tbt</name>
+		<name>Tb</name>
+	</book>
+	<book>
+		<id>Jdt</id>
+		<abbr>Judit</abbr>
+		<abbr>Judi</abbr>
+		<name>Judith</name>
+	</book>
+	<book>
+		<id>Wis</id>
+		<abbr>Wisd</abbr>
+		<abbr>Wisd. of Sol.</abbr>
+		<abbr>Sap</abbr>		
+		<name>Wisdom</name>
+		<name>Wisdom of Solomon</name>
+	</book>
+	<book>
+		<id>Sir</id>
+		<name>Sirach</name>
+		<name>Ecclesiasticus</name>
+		<name>Wisdom of Jesus Son of Sirach</name>
+		<name>Wisdom of Ben Sira</name>
+		<name>Ecclus</name>
+		<name>Si</name>
+	</book>
+	<book>
+		<id>Bar</id>
+		<abbr>Ba</abbr>
+		<name>Baruch</name>
+		<name>I Baruch</name>
+		<name>IBaruch</name>
+		<name>1 Baruch</name>
+		<name>1Baruch</name>
+	</book>
+	<book>
+		<id>EpJer</id>
+		<name>Epistle of Jeremiah</name>
+		<name>Epj</name>
+		<name>Letter of Jeremiah</name>
+		<name>LetJer</name>
+	</book>
+	<book>
+		<id>1Esd</id>
+		<abbr>1Es</abbr>
+		<abbr>3Es</abbr>
+		<abbr>1Esdr</abbr>
+		<name>I Esdras</name>
+		<name>IEsdras</name>
+		<name>1 Esdras</name>
+		<name>1Esdras</name>
+		<name>III Ezra</name>
+		<name>IIIEzra</name>
+		<name>3 Ezra</name>
+		<name>3Ezra</name>
+		<name>Esdras A</name>
+		<name>EsdrasA</name>
+		<name>I E</name>
+		<name>IE</name>
+		<name>1 E</name>
+		<name>1E</name>
+	</book>
+	<book>
+		<id>2Esd</id>
+		<abbr>2Es</abbr>
+		<abbr>4Es</abbr>
+		<abbr>2Esdr</abbr>
+		<name>II Esdras</name>
+		<name>IIEsdras</name>
+		<name>2 Esdras</name>
+		<name>2Esdras</name>
+		<name>IV Ezra</name>
+		<name>IVEzra</name>
+		<name>4 Ezra</name>
+		<name>4Ezra</name>
+		<name>Esdras B</name>
+		<name>EsdrasB</name>
+		<name>II E</name>
+		<name>IIE</name>
+		<name>2 E</name>
+		<name>2E</name>
+	</book>
+	<book>
+		<id>1Macc</id>
+		<abbr>1Ma</abbr>
+		<abbr>1Maccab</abbr>
+		<abbr>1Mac</abbr>
+		<abbr>1Mcc</abbr>
+		<name>I Maccabees</name>
+		<name>IMaccabees</name>
+		<name>1 Maccabees</name>
+		<name>1Maccabees</name>
+	</book>
+	<book>
+		<id>2Macc</id>
+		<abbr>2Ma</abbr>
+		<abbr>2Maccab</abbr>
+		<abbr>2Mac</abbr>
+		<abbr>2Mcc</abbr>
+		<name>II Maccabees</name>
+		<name>IIMaccabees</name>
+		<name>2 Maccabees</name>
+		<name>2Maccabees</name>
+	</book>
+	<!-- LXX -->
+	<book>
+		<id>3Macc</id>
+		<abbr>3Ma</abbr>
+		<abbr>3Maccab</abbr>
+		<abbr>3Mac</abbr>
+		<abbr>3Mcc</abbr>
+		<name>III Maccabees</name>
+		<name>IIIMaccabees</name>
+		<name>3 Maccabees</name>
+		<name>3Maccabees</name>
+	</book>
+	<book>
+		<id>4Macc</id>
+		<abbr>4Ma</abbr>
+		<abbr>4Maccab</abbr>
+		<abbr>4Mac</abbr>
+		<abbr>4Mcc</abbr>
+		<name>IV Maccabees</name>
+		<name>IVMaccabees</name>
+		<name>4 Maccabees</name>
+		<name>4Maccabees</name>
+	</book>
+	<book>
+		<id>Odes</id>
+		<abbr>Ode</abbr>
+		<abbr>OdesSol</abbr>
+		<name>Odes</name>
+	</book>
+	<book>
+		<id>PssSol</id>
+		<abbr mode="lxx">Pss</abbr>
+		<name>Psalms of Solomon</name>
+		<name>PsSol</name>
+	</book>
+	<book>
+		<id>AddPs</id>
+		<abbr>Psx</abbr>
+		<abbr>2Ps</abbr>
+		<name>Additional Psalm</name>
+		<name>Ps 151</name>
+		<name>Ps151</name>
+		<name>Psalm 151</name>
+		<name>Psalm151</name>
+	</book>
+	<book>
+		<!-- we should also include the Psalms beyond 151 in this book: -->
+		<id>5ApocSyrPss</id>
+		<name>Five Apocryphal Syriac Psalms</name>
+	</book>
+	<book>
+		<id>EsthGr</id>
+		<name>Esther (Greek)</name>
+		<name>Esg</name>
+		<name>Greek Esther</name>
+		<name>GrEsth</name>
+	</book>
+	<book>
+		<id>DanGr</id>
+		<abbr>Daa</abbr>
+		<abbr>DnG</abbr>
+		<name>Daniel (Greek)</name>
+		<name>Greek Daniel</name>
+		<name>GrDan</name>
+	</book>
+	<!-- Vulgate -->
+	<book>
+		<id>EpLao</id>
+		<name>Laodiceans</name>
+		<name>Lao</name>
+	</book>
+	<!-- Syriac Peshitta -->
+	<book>
+		<id>2Bar</id>
+		<abbr>2Ba</abbr>
+		<name>2Baruch</name>
+		<name>II Baruch</name>
+		<name>IIBaruch</name>
+		<name>2 Baruch</name>
+		<name>2Baruch</name>
+		<name>Syriac Apocalypse of Baruch</name>
+	</book>
+	<!--Ethiopian Orthodox Canon -->
+	<book>
+		<id>1En</id>
+		<name>I Enoch</name>
+		<name>IEnoch</name>
+		<name>1 Enoch</name>
+		<name>1Enoch</name>
+		<name>Ethiopic Apocalypse of Enoch</name>
+		<name>Enoch</name>
+	</book>
+	<book>
+		<id>4Bar</id>
+		<abbr>4Ba</abbr>
+		<name>IV Baruch</name>
+		<name>IVBaruch</name>
+		<name>4 Baruch</name>
+		<name>4Baruch</name>
+		<name>Paraleipomena Jeremiou</name>
+		<name>Paralipomena of Jeremiah</name>
+	</book>
+	<book>
+		<id>Jub</id>
+		<abbr>Lesser Genesis</abbr>
+		<name>Jubilees</name>
+	</book>
+	<book>
+		<id>1Meq</id>
+		<abbr>1Me</abbr>
+		<name>I Meqabyan</name>
+		<name>IMeqabyan</name>
+		<name>1 Meqabyan</name>
+		<name>1Meqabyan</name>
+		<name>I Makabian</name>
+		<name>IMakabian</name>
+		<name>1 Makabian</name>
+		<name>1Makabian</name>
+	</book>
+	<book>
+		<id>2Meq</id>
+		<abbr>2Me</abbr>
+		<name>II Meqabyan</name>
+		<name>IIMeqabyan</name>
+		<name>2 Meqabyan</name>
+		<name>2Meqabyan</name>
+		<name>II Makabian</name>
+		<name>IIMakabian</name>
+		<name>2 Makabian</name>
+		<name>2Makabian</name>
+	</book>
+	<book>
+		<id>3Meq</id>
+		<abbr>3Me</abbr>
+		<name>III Meqabyan</name>
+		<name>IIIMeqabyan</name>
+		<name>3 Meqabyan</name>
+		<name>3Meqabyan</name>
+		<name>III Makabian</name>
+		<name>IIIMakabian</name>
+		<name>3 Makabian</name>
+		<name>3Makabian</name>
+	</book>
+	<!-- Apocrypha -->
+	<book>
+		<id>AddEsth</id>
+		<abbr>AddEs</abbr>
+		<name>Additions to Esther</name>
+		<name>Esther (Additions)</name>
+	</book>
+	<book>
+		<id>AddDan</id>
+		<abbr>AddDan</abbr>
+		<name>Additions to Daniel</name>
+		<name>Daniel (Additions)</name>
+	</book>
+	<book>
+		<id>PrAzar</id>
+		<abbr>Song of the Three</abbr>
+		<abbr>Song of the Three Youths</abbr>
+		<name>Prayer of Azariah</name>
+		<name>Song of the Three Children</name>
+		<name>Azariah</name>
+		<name>Aza</name>
+		<name>Pra</name>
+		<name>S3Y</name>
+		<name>Azar</name>
+	</book>
+	<book>
+		<id>Sus</id>
+		<abbr>Su</abbr>
+		<abbr>Sut</abbr>
+		<name>Susanna</name>
+	</book>
+	<book>
+		<id>Bel</id>
+		<abbr>Bel and Drag</abbr>
+		<abbr>Be</abbr>
+		<abbr>Bet</abbr>
+		<name>Bel and the Dragon</name>
+	</book>
+	<book>
+		<id>PrMan</id>
+		<abbr>Manas</abbr>
+		<name>Prayer of Manasses</name>
+		<name>Prayer of Manasseh</name>
+		<name>Prm</name>
+		<name>Manasses</name>
+		<name>Manasseh</name>
+		<name>Man</name>
+	</book>
+	<book>
+		<id>SirP</id>
+		<name>Sirach (Prologue)</name>
+		<name>Sip</name>
+	</book>
+	<!-- Rahlfs' LXX Alternates -->	
+	<book>
+		<id>JoshA</id>
+		<name>Joshua A</name>
+	</book>
+	<book>
+		<id>JudgB</id>
+		<name>Judges B</name>
+	</book>
+	<book>
+		<id>TobS</id>
+		<name>Tobit S</name>
+	</book>
+	<book>
+		<id>SusTh</id>
+		<abbr>SusTheo</abbr>
+		<name>Susanna Th</name>
+	</book>
+	<book>
+		<id>DanTh</id>
+		<abbr>DanTheo</abbr>
+		<name>Daniel Th</name>
+	</book>
+	<book>
+		<id>BelTh</id>
+		<abbr>BelTheo</abbr>
+		<name>Bel and the Dragon Th</name>
+	</book>
+</collection>

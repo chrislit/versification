@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="canon.xsd">
+<!-- Collection name: classical -->
+
+
+	<!-- Josephus -->
+
+	<book>
+		<id>Ant</id>
+		<name>Jewish Antiquities</name>
+	</book>
+	<book>
+		<id>Apion</id>
+		<name>Against Apion</name>
+	</book>
+	<book>
+		<id>Life</id>
+		<name>Life of Josephus</name>
+	</book>
+	<book>
+		<id>War</id>
+		<name>Jewish Wars</name>
+	</book>
+
+</collection>

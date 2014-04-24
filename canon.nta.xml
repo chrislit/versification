@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="canon.xsd">
+<!-- Collection name: nta -->
+	<!-- New Testament Apocrypha -->
+
+	<!-- Hone texts -->
+	<book>
+		<id>GBirthMary</id>
+		<abbr>Mary</abbr>
+		<abbr>Mry</abbr>
+		<name>Gospel of the Birth of Mary</name>
+	</book>
+	<book>
+		<id>ProtJas</id>
+		<abbr mode="olb">Pro</abbr>
+		<abbr>PrJ</abbr>
+		<name>Protevangelium of James</name>
+	</book>
+	<book>
+		<id>InfGos</id>
+		<abbr>1In</abbr>
+		<name>I Infancy Gospel</name>
+		<name>IInfancy Gospel</name>
+		<name>1 Infancy Gospel</name>
+		<name>1Infancy Gospel</name>
+		<name>Inf</name>
+		<name>Infancy</name>
+	</book>
+	<book>
+		<id>InfGosThom</id>
+		<abbr>2In</abbr>
+		<name>II Infancy Gospel</name>
+		<name>IIInfancy Gospel</name>
+		<name>2 Infancy Gospel</name>
+		<name>2Infancy Gospel</name>
+		<name>Infancy Gospel of Thomas</name>
+		<name>IGT</name>
+	</book>
+	<book>
+		<id>Abgar</id>
+		<abbr>Abg</abbr>
+		<name>Abgar Legend</name>
+		<name>Christ and Abgarus</name>
+	</book>
+	<book>
+		<id>GNic</id>
+		<abbr>Nic</abbr>
+		<abbr>GNi</abbr>
+		<name>Gospel of Nicodemus</name>
+	</book>
+	<book>
+		<id>CorPaulSen</id>
+		<abbr>Sen</abbr>
+		<abbr>PSe</abbr>
+		<name>Correspondence between Paul and Seneca</name>
+	</book>
+	<book>
+		<id>ActsPaulThecla</id>
+		<abbr>Pt</abbr>
+		<abbr>PTh</abbr>
+		<name>Acts of Paul and Thecla</name>
+	</book>
+	<book>
+		<id>LetHerPil</id>
+		<abbr>LHP</abbr>
+		<name>Letters of Herod and Pilate</name>
+	</book>
+	<book>
+		<id>GPet</id>
+		<abbr>GOP</abbr>
+		<name>Gospel of Peter</name>
+	</book>
+
+	<!-- non-Hone texts -->
+	<book>
+		<id>Addai</id>
+		<name>Doctrine of Addai</name>
+	</book>
+	<book>
+		<id>ActsAndr</id>
+		<name>Acts of Andrew</name>
+	</book>
+	<book>
+		<id>AposCon</id>
+		<name>Apostolic Constitutions</name>
+	</book>
+	<book>
+		<id>EpApos</id>
+		<name>Epistula Apostolorum</name>
+	</book>
+	<book>
+		<id>GBart</id>
+		<name>Gospel of Bartholomew</name>
+	</book>
+	<book>
+		<id>QuesBart</id>
+		<name>Questions of Bartholomew</name>
+	</book>
+	<book>
+		<id>PseudClemRec</id>
+		<name>Pseudo-Clementine Recognitions</name>
+	</book>
+	<book>
+		<id>3Cor</id>
+		<name>III Corinthians</name>
+		<name>IIICorinthians</name>
+		<name>3 Corinthians</name>
+		<name>3Corinthians</name>
+	</book>
+	<book>
+		<id>CorCorr</id>
+		<name>Corinthian Correspondence</name>
+	</book>
+	<book>
+		<id>GEbion</id>
+		<name>Gospel of the Ebionites</name>
+	</book>
+	<book>
+		<id>GEgyp</id>
+		<name>Gospel of the Egyptians</name>
+	</book>
+	<book>
+		<id>Elch</id>
+		<name>Book of Elchasai</name>
+	</book>
+	<book>
+		<id>GHeb</id>
+		<name>Gospel of the Hebrews</name>
+	</book>
+	<book>
+		<id>ApIoan</id>
+		<name>Apocalypsis tou hagiou Ioannou</name>
+	</book>
+	<book>
+		<id>ActsJn</id>
+		<name>Acts of John</name>
+	</book>
+	<book>
+		<id>SecretMk</id>
+		<name>Secret Gospel of Mark</name>
+	</book>
+	<book>
+		<id>GMatthias</id>
+		<name>Gospel of Matthias</name>
+	</book>
+	<book>
+		<id>GNaas</id>
+		<name>Gospel of the Naassenes</name>
+	</book>
+	<book>
+		<id>GNaz</id>
+		<name>Gospel of the Nazareans</name>
+	</book>
+	<book>
+		<id>PapEg2</id>
+		<name>Papyrus Egerton 2: Fragments of an Unknown Gospel</name>
+	</book>
+	<book>
+		<id>ActsPaul</id>
+		<name>Acts of Paul</name>
+	</book>
+	<book>
+		<id>ApPaul</id>
+		<name>Apocalypse of Paul</name>
+	</book>
+	<book>
+		<id>ActsPet</id>
+		<name>Acts of Peter</name>
+	</book>
+	<book>
+		<id>ApPet</id>
+		<name>Apocalypse of Peter</name>
+	</book>
+	<book>
+		<id>PrPet</id>
+		<name>Preaching of Peter</name>
+	</book>
+	<book>
+		<id>ActsPhil</id>
+		<name>Acts of Philip</name>
+	</book>
+	<book>
+		<id>GPhil</id>
+		<name>Gospel of Philip</name>
+	</book>
+	<book>
+		<id>ActsPil</id>
+		<name>Acts of Pilate</name>
+	</book>
+	<book>
+		<id>RevSteph</id>
+		<name>Revelation of Stephen</name>
+	</book>
+	<book>
+		<id>ActsThom</id>
+		<name>Acts of Thomas</name>
+	</book>
+	<book>
+		<id>ApThom</id>
+		<name>Apocalypse of Thomas</name>
+	</book>
+	<book>
+		<id>GThom</id>
+		<name>Gospel of Thomas</name>
+	</book>
+	<book>
+		<id>GTr</id>
+		<name>Gospel of Truth</name>
+	</book>
+
+	<!-- Not listed in SBL -->
+
+	<book>
+		<id>Freer</id>
+		<name>Freer Logion</name>
+	</book>
+	<book>
+		<id>G4HevReg</id>
+		<name>Gospel of the Four Hevenley Regions</name>
+	</book>
+	<book>
+		<id>GPer</id>
+		<name>Gospel of Perfiction</name>
+	</book>
+	<book>
+		<id>PisSoph</id>
+		<name>Pistis Sophia</name>
+	</book>
+	<book>
+		<id>2BksJeu</id>
+		<name>The Two Books of Jeu</name>
+	</book>
+	<book>
+		<id>G12</id>
+		<name>Gospel of the Twelve</name>
+	</book>
+	<book>
+		<id>KukG12</id>
+		<name>Kukean Gospel of the Twelve</name>
+	</book>
+	<book>
+		<id>MemApost</id>
+		<name>Memory of the Apostles</name>
+		<name>Memoria Apostolorum</name>
+	</book>
+	<book>
+		<id>ManG12</id>
+		<name>Manichean Gospel of the Twelve Apostles</name>
+	</book>
+	<book>
+		<id>G70</id>
+		<name>Gospel of the Seventy</name>
+	</book>
+	<book>
+		<id>GJudas</id>
+		<name>Gospel of Judas</name>
+	</book>
+	<book>
+		<id>FrDialJnJes</id>
+		<name>Fragments of a Dialogue between John and Jesus</name>
+	</book>
+	<book>
+		<id>QuesMary</id>
+		<name>Questions of Mary</name>
+	</book>
+	<book>
+		<id>GenMar</id>
+		<name>Genna Marias</name>
+	</book>
+	<book>
+		<id>GCer</id>
+		<name>Gospel of Cerinthus</name>
+	</book>
+	<book>
+		<id>GBas</id>
+		<name>Gospel of Basilides</name>
+	</book>
+	<book>
+		<id>GMarc</id>
+		<name>Gospel of Marcion</name>
+	</book>
+	<book>
+		<id>GApelles</id>
+		<name>Gospel of Apelles</name>
+	</book>
+	<book>
+		<id>GBard</id>
+		<name>Gospel of Bardesanes</name>
+	</book>
+	<book>
+		<id>GMani</id>
+		<name>Gospel of Mani</name>
+	</book>
+	<book>
+		<id>ArabicInfG</id>
+		<name>Arabic Infancy Gospel</name>
+	</book>
+	<book>
+		<id>GPseudMat</id>
+		<name>Gospel of Pseudo-Matthew</name>
+	</book>
+	<book>
+		<id>LatinInfG</id>
+		<name>Latin Infancy Gospel</name>
+	</book>
+	<book>
+		<id>LifeJnSer</id>
+		<name>Life of John according to Serapion</name>
+	</book>
+	<book>
+		<id>ChrDescent</id>
+		<name>Christ's Descent into Hell</name>
+	</book>
+	<book>
+		<id>GGam</id>
+		<name>Gospel of Gamaliel</name>
+	</book>
+	<book>
+		<id>KerPet</id>
+		<name>Kerygma Petrou</name>
+		<name>Teaching of Peter</name>
+	</book>
+	<book>
+		<id>PseudTit</id>
+		<name>Epistle of Pseudo-Titus</name>
+	</book>
+	<book>
+		<id>ClemRom</id>
+		<name>Clement Romance</name>
+	</book>
+	<book>
+		<id>5Ezra</id>
+		<name>V Ezra</name>
+		<name>VEzra</name>
+		<name>5 Ezra</name>
+		<name>5Ezra</name>
+	</book>
+	<book>
+		<id>6Ezra</id>
+		<name>VI Ezra</name>
+		<name>VIEzra</name>
+		<name>6 Ezra</name>
+		<name>6Ezra</name>
+	</book>
+	<book>
+		<id>ChrSib</id>
+		<name>Christian Sibyllines</name>
+	</book>
+	<book>
+		<id>GAdvers</id>
+		<name>Gospel of the Adversaries of the Law and the Prophets</name>
+	</book>
+	<book>
+		<id>GEve</id>
+		<name>Gospel of Eve</name>
+	</book>
+	<book>
+		<id>HistJosCarp</id>
+		<name>History of Joseph the Carpenter</name>
+	</book>
+	<book>
+		<id>LibInfSalv</id>
+		<name>Liber de Infantia Salvatoris</name>
+	</book>
+	<book>
+		<id>ArmInfG</id>
+		<name>Armenian Infancy Gospel</name>
+	</book>
+	<book>
+		<id>LetPilClaud</id>
+		<name>Letter of Pilate to Claudius</name>
+	</book>
+	<book>
+		<id>LetPilTib</id>
+		<name>Letter of Pilate to Tiberius</name>
+	</book>
+	<book>
+		<id>ParPil</id>
+		<name>Paradosis Pilati</name>
+	</book>
+	<book>
+		<id>AnaPil</id>
+		<name>Anaphora Pilati</name>
+	</book>
+	<book>
+		<id>VinSalv</id>
+		<name>Vindicta Salvatoris</name>
+	</book>
+	<book>
+		<id>MorsPil</id>
+		<name>Mors Pilati</name>
+	</book>
+	<book>
+		<id>NarJosAr</id>
+		<abbr>J22</abbr>
+		<name>Narrative of Joseph of Arimathea</name>
+	</book>
+	<book>
+		<id>LetTibPil</id>
+		<name>Letter of Tiberius to Pilate</name>
+	</book>
+	<book>
+		<id>ActsJnRome</id>
+		<name>Acts of John in Rome</name>
+	</book>
+	<book>
+		<id>ActsJnPro</id>
+		<name>Acts of John attributed to Prochorus</name>
+	</book>
+	<book>
+		<id>VirApostJn</id>
+		<name>Virtutes Apostolorum: Virtutes Iohannis of Pseudo-Abdias</name>
+	</book>
+	<book>
+		<id>PasJn</id>
+		<name>Passio Iohannis of Pseudo-Melito</name>
+	</book>
+	<book>
+		<id>SyrActsJn</id>
+		<name>Syriac Acts of John</name>
+	</book>
+	<book>
+		<id>LibFlavFerg</id>
+		<name>Liber Flavius Fergusiorum</name>
+	</book>
+	<book>
+		<id>MarPaul</id>
+		<name>Martyrium beati Pauli Apostoli</name>
+	</book>
+	<book>
+		<id>ActsTit</id>
+		<name>Acts of Titus by Pseudo-Zenas</name>
+	</book>
+	<book>
+		<id>SyrHistPaul</id>
+		<name>Syriac History of the Holy Apostle Paul</name>
+	</book>
+	<book>
+		<id>ActsAndrewPaul</id>
+		<name>Acts of Andrew and Paul</name>
+	</book>
+	<book>
+		<id>ActsPetAndrew</id>
+		<abbr>J44</abbr>
+		<name>Acts of Peter and Andrew</name>
+	</book>
+	<book>
+		<id>GregEpit</id>
+		<name>Gregory of Tours' Epitome</name>
+	</book>
+	<book>
+		<id>ActsAndrewMatthias</id>
+		<abbr>J43</abbr>
+		<name>Acts of Andrew and Matthias</name>
+	</book>
+	<book>
+		<id>MarPet</id>
+		<name>Martyrium beati Petri Apostoli</name>
+	</book>
+	<book>
+		<id>PasSanctPetPaul</id>
+		<name>Passio sanctorum apostolorum Petri et Pauli</name>
+	</book>
+	<book>
+		<id>ActsPetPaul</id>
+		<name>Acta Petri et Pauli</name>
+	</book>
+	<book>
+		<id>PasPetPaul</id>
+		<name>Passio Apostolorum Petri et Pauli</name>
+	</book>
+	<book>
+		<id>SlavActsPet</id>
+		<name>Slavonic Acts of Peter</name>
+	</book>
+	<book>
+		<id>SyrActsPet</id>
+		<name>Syriac Acts of Peter</name>
+	</book>
+	<book>
+		<id>ArabicActsPet</id>
+		<name>Arabic Acts of Peter</name>
+	</book>
+	<book>
+		<id>PasBart</id>
+		<name>Passion of Bartholomew</name>
+	</book>
+	<book>
+		<id>PasMat</id>
+		<name>Passion of Matthew</name>
+	</book>
+	<book>
+		<id>ActsBarn</id>
+		<name>Acts of Barnabas</name>
+	</book>
+	<book>
+		<id>ActsXanPoly</id>
+		<name>Acts of Xanthippe and Polyxena</name>
+	</book>
+	<book>
+		<id>PseudAbd</id>
+		<name>Pseudo-Abdias</name>
+	</book>
+	<book>
+		<id>OrActs</id>
+		<name>Oriental Acts</name>
+	</book>
+	<book>
+		<id>LetChrAbgar</id>
+		<name>Letters of Christ and Abgar</name>
+	</book>
+	<book>
+		<id>LetLentulus</id>
+		<name>Letter of Lentulus</name>
+	</book>
+	<book>
+		<id>EpAlexandrians</id>
+		<name>Epistle to the Alexandrians</name>
+	</book>
+	<book>
+		<id>BkResJes</id>
+		<name>Book of the Resurrection of Jesus Christ by Bartholomew the Apostle</name>
+	</book>
+	<book>
+		<id>LetJas</id>
+		<name>Apocryphal Letter of James</name>
+	</book>
+	<book>
+		<id>ApBart</id>
+		<name>Apocalypse of Bartholomew</name>
+	</book>
+	<book>
+		<id>ApZech</id>
+		<name>Apocalypse of Zechariah</name>
+	</book>
+	<book>
+		<id>GkApVirg</id>
+		<name>Greek Apocalypse of the Virgin</name>
+	</book>
+	<book>
+		<id>EthApVirg</id>
+		<name>Ethiopic Apocalypse of the Virgin</name>
+	</book>
+	<book>
+		<id>AsVirgin</id>
+		<name>Assumption of the Virgin</name>
+	</book>
+
+</collection>

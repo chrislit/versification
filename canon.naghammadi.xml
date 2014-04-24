@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="canon.xsd">
+<!-- Collection name: naghammadi -->
+
+
+	<!-- Nag Hammadi -->
+
+	<book>
+		<id>ActsPet12Apost</id>
+		<name>Acts of Peter and the Twelve Apostles</name>
+	</book>
+	<book>
+		<id>Allogenes</id>
+		<name>Allogenes</name>
+	</book>
+	<book>
+		<id>ApocJas</id>
+		<name>Apocryphon of James</name>
+	</book>
+	<book>
+		<id>ApocJn</id>
+		<name>Apocryphon of John</name>
+	</book>
+	<book>
+		<id>ApAdam</id>
+		<name>Apocalypse of Adam</name>
+	</book>
+	<book>
+		<id>1ApJas</id>
+		<name>I Apocalypse of James</name>
+		<name>IApocalypse of James</name>
+		<name>1 Apocalypse of James</name>
+		<name>1Apocalypse of James</name>
+	</book>
+	<book>
+		<id>2ApJas</id>
+		<name>II Apocalypse of James</name>
+		<name>IIApocalypse of James</name>
+		<name>2 Apocalypse of James</name>
+		<name>2Apocalypse of James</name>
+	</book>
+	<book>
+		<id>ApPaul</id>
+		<name>Apocalypse of Paul</name>
+	</book>
+	<book>
+		<id>ApPet</id>
+		<name>Apocalypse of Peter</name>
+	</book>
+	<book>
+		<id>Asclepius</id>
+		<name>Asclepius</name>
+	</book>
+	<book>
+		<id>AuthTeach</id>
+		<name>Authoritative Teaching</name>
+	</book>
+	<book>
+		<id>DialSav</id>
+		<name>Dialogue of the Savior</name>
+	</book>
+	<book>
+		<id>Disc89</id>
+		<abbr>Disc8-9</abbr>
+		<name>Discourse on the Eighth and Ninth</name>
+	</book>
+	<book>
+		<id>EpPetPhil</id>
+		<name>Letter of Peter to Philip</name>
+	</book>
+	<book>
+		<id>Eugnostos</id>
+		<name>Eugnostos the Blessed</name>
+	</book>
+	<book>
+		<id>ExegSoul</id>
+		<name>Exegesis on the Soul</name>
+	</book>
+	<book>
+		<id>GEgyp</id>
+		<name>Gospel of the Egyptians</name>
+	</book>
+	<book>
+		<id>GPhil</id>
+		<name>Gospel of Philip</name>
+	</book>
+	<book>
+		<id>GThom</id>
+		<name>Gospel of Thomas</name>
+	</book>
+	<book>
+		<id>GreatPow</id>
+		<name>The Concept of Our Great Power</name>
+	</book>
+	<book>
+		<id>HypArch</id>
+		<name>Hypostasis of the Archons</name>
+	</book>
+	<book>
+		<id>Hypsiph</id>
+		<name>Hypsiphrone</name>
+	</book>
+	<book>
+		<id>InterpKnow</id>
+		<name>Interpretation of Knowledge</name>
+	</book>
+	<book>
+		<id>Marsanes</id>
+		<name>Marsanes</name>
+	</book>
+	<book>
+		<id>Melch</id>
+		<name>Melchizedek</name>
+	</book>
+	<book>
+		<id>Norea</id>
+		<name>Thought of Norea</name>
+	</book>
+	<book>
+		<id>OnBapA</id>
+		<name>On the Baptism A</name>
+	</book>
+	<book>
+		<id>OnBapB</id>
+		<name>On the Baptism B</name>
+	</book>
+	<book>
+		<id>OnEuchA</id>
+		<name>On the Eucharist A</name>
+	</book>
+	<book>
+		<id>OnEuchB</id>
+		<name>On the Eucharist B</name>
+	</book>
+	<book>
+		<id>OrigWorld</id>
+		<name>On the Origin of the World</name>
+	</book>
+	<book>
+		<id>ParaphShem</id>
+		<name>Paraphrase of Shem</name>
+	</book>
+	<book>
+		<id>PrPaul</id>
+		<name>Prayer of the Apostle Paul</name>
+	</book>
+	<book>
+		<id>PrThanks</id>
+		<name>Prayer of Thanksgiving</name>
+	</book>
+	<book>
+		<id>SentSextus</id>
+		<name>Sentences of Sextus</name>
+	</book>
+	<book>
+		<id>SophJesChr</id>
+		<name>Sophia of Jesus Christ</name>
+	</book>
+	<book>
+		<id>StelesSeth</id>
+		<name>Three Steles of Seth</name>
+	</book>
+	<book>
+		<id>TeachSilv</id>
+		<name>Teachings of Silvanus</name>
+	</book>
+	<book>
+		<id>TestimTruth</id>
+		<name>Testimony of Truth</name>
+	</book>
+	<book>
+		<id>ThomCont</id>
+		<name>Book of Thomas the Contender</name>
+	</book>
+	<book>
+		<id>Thund</id>
+		<name>The Thunder: Perfect Mind</name>
+	</book>
+	<book>
+		<id>TreatRes</id>
+		<name>Treatise on the Resurrection</name>
+	</book>
+	<book>
+		<id>TreatSeth</id>
+		<name>Second Treatise of the Great Seth</name>
+	</book>
+	<book>
+		<id>TriTrac</id>
+		<name>Tripartite Tractate</name>
+	</book>
+	<book>
+		<id>TrimProt</id>
+		<name>Trimorphic Protennoia</name>
+	</book>
+	<book>
+		<id>ValExp</id>
+		<name>A Valentinian Exposition</name>
+	</book>
+	<book>
+		<id>Zost</id>
+		<name>Zostrianos</name>
+	</book>
+
+	<!-- Not listed in SBL -->
+
+	<book>
+		<id>PlatoRep</id>
+		<name>Plato Republic 588A-589B</name>
+	</book>
+	<book>
+		<id>ScribalNote</id>
+		<name>Scribal Note</name>
+	</book>
+	<book>
+		<id>OnAnoint</id>
+		<name>On the Anointing</name>
+		<name>On the Baptism C(??)</name>
+	</book>
+	<book>
+		<id>Frm</id>
+		<name>Fragments</name>
+	</book>
+
+</collection>

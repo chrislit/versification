@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="canon.xsd">
+<!-- Collection name: af -->
+
+	<!-- Apostolic Fathers -->
+	<book>
+		<id>Barn</id>
+		<abbr>Brn</abbr>
+		<abbr mode="olb">Bar</abbr>
+		<name>Barnabas</name>
+	</book>
+	<book>
+		<id>1Clem</id>
+		<abbr>1Cl</abbr>
+		<name>I Clement</name>
+		<name>IClement</name>
+		<name>1 Clement</name>
+		<name>1Clement</name>
+	</book>
+	<book>
+		<id>2Clem</id>
+		<abbr>2Cl</abbr>
+		<name>II Clement</name>
+		<name>IIClement</name>
+		<name>2 Clement</name>
+		<name>2Clement</name>
+	</book>
+	<book>
+		<id>Did</id>
+		<name>Didache</name>
+	</book>
+	<book>
+		<id>Diogn</id>
+		<abbr>Dio</abbr>
+		<name>Diognetus</name>
+	</book>
+	<book>
+		<id>Herm</id>
+		<name>Shepherd of Hermas</name>
+	</book>
+	<book>
+		<id>HermMan</id>
+		<abbr>Com</abbr>
+		<abbr>HCo</abbr>
+		<name>Hermas: Mandates</name>
+	</book>
+	<book>
+		<id>HermSim</id>
+		<abbr>Sim</abbr>
+		<abbr>HSm</abbr>
+		<name>Hermas: Similitudes</name>
+	</book>
+	<book>
+		<id>HermVis</id>
+		<abbr>Vis</abbr>
+		<abbr>HVs</abbr>
+		<name>Hermas: Visions</name>
+	</book>
+	<book>
+		<id>IgnMagn</id>
+		<abbr>IMg</abbr>
+		<abbr>Mag</abbr>
+		<name>Ignatius to the Magnesians</name>
+	</book>
+	<book>
+		<id>IgnPhld</id>
+		<abbr>IPh</abbr>
+		<abbr mode="olb">Phi</abbr>
+		<name>Ignatius to the Philadephians</name>
+	</book>
+	<book>
+		<id>IgnPol</id>
+		<abbr>IPo</abbr>
+		<abbr mode="olb">Pol</abbr>
+		<name>Ignatius to Polycarp</name>
+	</book>
+	<book>
+		<id>IgnRom</id>
+		<abbr>IRo</abbr>
+		<abbr mode="olb">Rom</abbr>
+		<name>Ignatius to the Romans</name>
+	</book>
+	<book>
+		<id>IgnSmyrn</id>
+		<abbr>ISm</abbr>
+		<abbr>Smy</abbr>
+		<name>Ignatius to the Smyrnaeans</name>
+	</book>
+	<book>
+		<id>IgnTrall</id>
+		<abbr>ITr</abbr>
+		<abbr>Tra</abbr>
+		<name>Ignatius to the Trallians</name>
+	</book>
+	<book>
+		<id>IgnEph</id>
+		<abbr>IEp</abbr>
+		<!-- used by OLB, but overlaps with Ephesians abbrev <abbr mode="olb">Eph</abbr> -->
+		<name>Ignatius to the Ephesians</name>
+	</book>
+	<book>
+		<id>MartPol</id>
+		<abbr>MPo</abbr>
+		<name>Martyrdom of Polycarp</name>
+	</book>
+	<book>
+	        <id>PolPhil</id>
+		<abbr>Pol</abbr>
+		<!-- used by OLB, but overlaps with Philippians abbrev <abbr mode="olb">Php</abbr> -->
+		<name>Polycarp to the Philippians</name>
+	</book>
+	<book>
+	        <id>AposCreed</id>
+		<abbr mode="bw">Apc</abbr>
+		<name>Apostles' Creed</name>
+	</book>
+	<book>
+	        <id>Pap</id>
+		<name>Fragments of Papias</name>
+	</book>
+
+	<!-- long versions -->
+
+	<book>
+		<id>IgnMagnLg</id>
+		<abbr>IMl</abbr>
+		<name>Ignatius to the Magnesians (Longer)</name>
+	</book>
+	<book>
+		<id>IgnPhldLg</id>
+		<abbr>IPl</abbr>
+		<name>Ignatius to the Philadephians (Longer)</name>
+	</book>
+	<book>
+		<id>IgnPolLg</id>
+		<abbr>IPc</abbr>
+		<name>Ignatius to Polycarp (Longer)</name>
+	</book>
+	<book>
+		<id>IgnRomLg</id>
+		<abbr>IRl</abbr>
+		<name>Ignatius to the Romans (Longer)</name>
+	</book>
+	<book>
+		<id>IgnSmyrnLg</id>
+		<abbr>ISl</abbr>
+		<name>Ignatius to the Smyrnaeans (Longer)</name>
+	</book>
+	<book>
+		<id>IgnTrallLg</id>
+		<abbr>ITl</abbr>
+		<name>Ignatius to the Trallians (Longer)</name>
+	</book>
+	<book>
+		<id>IgnEphLg</id>
+		<abbr>IEl</abbr>
+		<name>Ignatius to the Ephesians (Longer)</name>
+	</book>
+
+</collection>

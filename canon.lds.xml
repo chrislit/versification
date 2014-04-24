@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="canon.xsd">
+<!-- Collection name: lds -->
+
+
+	<!-- Book of Mormon -->
+
+	<book>
+		<id>1Ne</id>
+		<name>I Nephi</name>
+		<name>INephi</name>
+		<name>1 Nephi</name>
+		<name>1Nephi</name>
+	</book>
+	<book>
+		<id>2Ne</id>
+		<name>II Nephi</name>
+		<name>IINephi</name>
+		<name>2 Nephi</name>
+		<name>2Nephi</name>
+	</book>
+	<book>
+		<id>Jacob</id>
+		<name>Jacob</name>
+	</book>
+	<book>
+		<id>Enos</id>
+		<name>Enos</name>
+	</book>
+	<book>
+		<id>Jarom</id>
+		<name>Jarom</name>
+	</book>
+	<book>
+		<id>Omni</id>
+		<name>Omni</name>
+	</book>
+	<book>
+		<id>WofM</id>
+		<name>Words of Mormon</name>
+	</book>
+	<book>
+		<id>Mosiah</id>
+		<name>Mosiah</name>
+	</book>
+	<book>
+		<id>Alma</id>
+		<name>Alma</name>
+	</book>
+	<book>
+		<id>Hel</id>
+		<name>Helaman</name>
+	</book>
+	<book>
+		<id>3Ne</id>
+		<name>III Nephi</name>
+		<name>IIINephi</name>
+		<name>3 Nephi</name>
+		<name>3Nephi</name>
+	</book>
+	<book>
+		<id>4Ne</id>
+		<name>IV Nephi</name>
+		<name>IVNephi</name>
+		<name>4 Nephi</name>
+		<name>4Nephi</name>
+	</book>
+	<book>
+		<id>Morm</id>
+		<name>Mormon</name>
+	</book>
+	<book>
+		<id>Ether</id>
+		<name>Ether</name>
+	</book>
+	<book>
+		<id>Moro</id>
+		<name>Moroni</name>
+	</book>
+
+	<!-- Pearl of Great Price -->
+
+	<book>
+		<id>Moses</id>
+		<name>Book of Moses</name>
+	</book>
+	<book>
+		<id>Abr</id>
+		<name>Book of Abraham</name>
+	</book>
+	<book>
+		<id>JSM</id>
+		<abbr>JS-M</abbr>
+		<name>Joseph Smith-Matthew</name>
+	</book>
+	<book>
+		<id>JSH</id>
+		<abbr>JS-H</abbr>
+		<name>Joseph Smith-History</name>
+	</book>
+	<book>
+		<id>AofF</id>
+		<name>Articles of Faith</name>
+	</book>
+
+	<!-- Doctrine & Covenants -->
+
+	<book>
+		<id>DC</id>
+		<abbr>D&amp;C</abbr>
+		<name>Doctrine and Covenants</name>
+		<name>Doctrine &amp; Covenants</name>
+	</book>
+	<book>
+		<id>OD</id>
+		<name>Official Declaration</name>
+	</book>
+
+</collection>
+

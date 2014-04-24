@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="canon.xsd">
+<!-- Collection name: otp -->
+
+	<!-- OT Pseudepigrapha -->
+
+	<book>
+		<id>ApAb</id>
+		<name>Apocalypse of Abraham</name>
+	</book>
+	<book>
+		<id>TAb</id>
+		<name>Testament of Abraham</name>
+	</book>
+	<book>
+		<id>ApAdam</id>
+		<name>Apocalypse of Adam</name>
+	</book>
+	<book>
+		<id>TAdam</id>
+		<name>Testament of Adam</name>
+	</book>
+	<book>
+		<id>LAE</id>
+		<abbr>Ada</abbr>
+		<name>Life of Adam and Eve</name>
+	</book>
+	<book>
+		<id>Ah</id>
+		<name>Ahiqar</name>
+	</book>
+	<book>
+		<id>AnonSam</id>
+		<name>An Anonymous Samaritan Text</name>
+	</book>
+	<book>
+		<id>LetAris</id>
+		<name>Letter of Aristeas</name>
+	</book>
+	<book>
+		<id>ArisEx</id>
+		<name>Aristeas the Exegete</name>
+	</book>
+	<book>
+		<id>Aristob</id>
+		<name>Aristobolus</name>
+	</book>
+	<book>
+		<id>Art</id>
+		<name>Artapanus</name>
+	</book>
+	<book>
+		<id>3Bar</id>
+		<abbr>3Ba</abbr>
+		<name>III Baruch</name>
+		<name>IIIBaruch</name>
+		<name>3 Baruch</name>
+		<name>3Baruch</name>
+		<name>Greek Apocalypse of Baruch</name>
+	</book>
+	<book>
+		<id>CavTr</id>
+		<name>Cave of Treasures</name>
+	</book>
+	<book>
+		<id>ClMal</id>
+		<name>Cleodemus Malchus</name>
+	</book>
+	<book>
+		<id>ApDan</id>
+		<name>Apocalypse of Daniel</name>
+	</book>
+	<book>
+		<id>Dem</id>
+		<name>Demetrius</name>
+	</book>
+	<book>
+		<id>ElMod</id>
+		<name>Eldad and Modad</name>
+	</book>
+	<book>
+		<id>ApEl</id>
+		<name>Apocalypse of Elijah</name>
+	</book>
+	<book>
+		<id>HebApEl</id>
+		<name>Hebrew Apocalypse of Elijah</name>
+	</book>
+	<book>
+		<id>2En</id>
+		<name>II Enoch</name>
+		<name>IIEnoch</name>
+		<name>2 Enoch</name>
+		<name>2Enoch</name>
+		<name>Slavonic Apocalypse of Enoch</name>
+	</book>
+	<book>
+		<id>3En</id>
+		<name>III Enoch</name>
+		<name>IIIEnoch</name>
+		<name>3 Enoch</name>
+		<name>3Enoch</name>
+		<name>Hebrew Apocalypse of Enoch</name>
+	</book>
+	<book>
+		<id>Eup</id>
+		<name>Eupolemus</name>
+	</book>
+	<book>
+		<id>PsEup</id>
+		<abbr>Ps-Eup</abbr>
+		<name>Pseudo-Eupolemus</name>
+	</book>
+	<book>
+		<id>ApocEzek</id>
+		<name>Apocryphon of Ezekiel</name>
+	</book>
+	<book>
+		<id>ApEzek</id>
+		<name>Apocalypse of Ezekiel</name>
+	</book>
+	<book>
+		<id>EzekTrag</id>
+		<name>Ezekiel the Tragedian</name>
+	</book>
+	<book>
+		<id>GkApEzra</id>
+		<name>Greek Apocalypse of Ezra</name>
+	</book>
+	<book>
+		<id>QuesEzra</id>
+		<name>Questions of Ezra</name>
+	</book>
+	<book>
+		<id>RevEzra</id>
+		<name>Revelation of Ezra</name>
+	</book>
+	<book>
+		<id>VisEzra</id>
+		<name>Vision of Ezra</name>
+	</book>
+	<book>
+		<id>HecAb</id>
+		<name>Hecataeus Abdera</name>
+	</book>
+	<book>
+		<id>PsHec</id>
+		<abbr>Ps-Hec</abbr>
+		<name>Pseudo-Hecataeus</name>
+	</book>
+	<book>
+		<id>HelSynPr</id>
+		<name>Hellenistic Synagogal Prayers</name>
+	</book>
+	<book>
+		<id>THez</id>
+		<name>Testament of Hezekiah</name>
+	</book>
+	<book>
+		<id>FrgsHistWrks</id>
+		<name>Fragments of Historical Works</name>
+	</book>
+	<book>
+		<id>TIsaac</id>
+		<name>Testament of Isaac</name>
+	</book>
+	<book>
+		<id>AscenIs</id>
+		<name>Ascension of Isaiah</name>
+	</book>
+	<book>
+		<id>MartIs</id>
+		<abbr>MrI</abbr>
+		<name>Martyrdom of Isaiah</name>
+	</book>
+	<book>
+		<id>VisIs</id>
+		<name>Vision of Isaiah</name>
+	</book>
+	<book>
+		<id>LadJac</id>
+		<name>Ladder of Jacob</name>
+	</book>
+	<book>
+		<id>PrJac</id>
+		<name>Prayer of Jacob</name>
+	</book>
+	<book>
+		<id>TJac</id>
+		<name>Testament of Jacob</name>
+	</book>
+	<book>
+		<id>JanJam</id>
+		<name>Jannes and Jambres</name>
+	</book>
+	<book>
+		<id>TJob</id>
+		<name>Testament of Job</name>
+	</book>
+	<book>
+		<id>JosAsen</id>
+		<name>Joseph and Aseneth</name>
+	</book>
+	<book>
+		<id>HistJos</id>
+		<name>History of Joseph</name>
+	</book>
+	<book>
+		<id>PrJos</id>
+		<name>Prayer of Joseph</name>
+	</book>
+	<book>
+		<id>LAB</id>
+		<name>Liber Antiquitatum Biblicarum</name>
+	</book>
+	<book>
+		<id>LosTr</id>
+		<name>The Lost Tribes</name>
+	</book>
+	<book>
+		<id>5Mac</id>
+		<abbr>5Ma</abbr>
+		<name>V Maccabees</name>
+		<name>5 Maccabees</name>
+		<name>5Maccabees</name>
+	</book>
+	<book>
+		<id>SyrMen</id>
+		<name>Syriac Menander</name>
+	</book>
+	<book>
+		<id>ApMos</id>
+		<name>Apocalypse of Moses</name>
+	</book>
+	<book>
+		<id>AsMos</id>
+		<abbr>AsM</abbr>
+		<name>Assumption of Moses</name>
+	</book>
+	<book>
+		<id>PrMos</id>
+		<name>Prayer of Moses</name>
+	</book>
+	<book>
+		<id>TMos</id>
+		<name>Testament of Moses</name>
+	</book>
+	<book>
+		<id>BkNoah</id>
+		<name>Book of Noah</name>
+	</book>
+	<book>
+		<id>PsOrph</id>
+		<abbr>Ps-Orph</abbr>
+		<name>Orphica</name>
+		<name>Pseudo-Orpheus</name>
+	</book>
+	<book>
+		<id>PhEPoet</id>
+		<name>Philo the Epic Poet</name>
+	</book>
+	<book>
+		<id>PsPhilo</id>
+		<abbr>Ps-Philo</abbr>
+		<name>Pseudo-Philo</name>
+	</book>
+	<book>
+		<id>PsPhoc</id>
+		<abbr>Ps-Phoc</abbr>
+		<name>Pseudo-Phocyclides</name>
+	</book>
+	<book>
+		<id>FrgsPoetWrks</id>
+		<name>Fragments of Poetic Works</name>
+	</book>
+	<book>
+		<id>LivPro</id>
+		<name>Lives of the Prophets</name>
+	</book>
+	<book>
+		<id>HistRech</id>
+		<name>History of the Rechabites</name>
+	</book>
+	<book>
+		<id>ApSedr</id>
+		<name>Apocalypse of Sedrach</name>
+	</book>
+	<book>
+		<id>TrShem</id>
+		<name>Treatise of Shem</name>
+	</book>
+	<book>
+		<id>SibOr</id>
+		<abbr>Sib</abbr>
+		<name>Sibylline Oracles</name>
+	</book>
+	<book>
+		<id>TSol</id>
+		<name>Testament of Solomon</name>
+	</book>
+	<book>
+		<id>Thal</id>
+		<name>Thallus</name>
+	</book>
+	<book>
+		<id>Theod</id>
+		<name>Theodotus</name>
+	</book>
+	<book>
+		<id>T12P</id>
+		<name>Testaments of the Twelve Patriarchs</name>
+	</book>
+	<book>
+		<id>TReu</id>
+		<abbr>12R</abbr>
+		<name>Testament of Reuben</name>
+	</book>
+	<book>
+		<id>TSim</id>
+		<abbr>12S</abbr>
+		<name>Testament of Simeon</name>
+	</book>
+	<book>
+		<id>TLevi</id>
+		<abbr>12L</abbr>
+		<name>Testament of Levi</name>
+	</book>
+	<book>
+		<id>TJud</id>
+		<abbr>12J</abbr>
+		<name>Testament of Judah</name>
+	</book>
+	<book>
+		<id>TIss</id>
+		<abbr>12I</abbr>
+		<name>Testament of Issachar</name>
+	</book>
+	<book>
+		<id>TZeb</id>
+		<abbr>12Z</abbr>
+		<name>Testament of Zebulon</name>
+	</book>
+	<book>
+		<id>TDan</id>
+		<abbr>12D</abbr>
+		<name>Testament of Dan</name>
+	</book>
+	<book>
+		<id>TNaph</id>
+		<abbr>12N</abbr>
+		<name>Testament of Naphtali</name>
+	</book>
+	<book>
+		<id>TGad</id>
+		<abbr>12G</abbr>
+		<name>Testament of Gad</name>
+	</book>
+	<book>
+		<id>TAsh</id>
+		<abbr>12A</abbr>
+		<name>Testament of Asher</name>
+	</book>
+	<book>
+		<id>TJos</id>
+		<abbr>12O</abbr>
+		<name>Testament of Joseph</name>
+	</book>
+	<book>
+		<id>TBenj</id>
+		<abbr>12B</abbr>
+		<name>Testament of Benjamin</name>
+	</book>
+	<book>
+		<id>Vita</id>
+		<name>Vita Adae et Evae</name>
+	</book>
+	<book>
+		<id>ApZeph</id>
+		<name>Apocalypse of Zephaniah</name>
+	</book>
+	<book>
+		<id>ApZos</id>
+		<name>Apocalypse of Zosimus</name>
+	</book>
+
+	<!-- Not listed in SBL -->
+
+	<book>
+		<id>T3P</id>
+		<name>Testaments of the Three Patriarchs</name>
+	</book>
+	<book>
+		<id>VisDan</id>
+		<name>Vision of Daniel</name>
+	</book>
+	<book>
+		<id>DeathAb</id>
+		<name>Death of Abraham</name>
+	</book>
+	<book>
+		<id>Jash</id>
+		<name>Book of Jasher</name>
+	</book>
+	<book>
+		<id>ConfAES</id>
+		<name>Conflict of Adam and Eve with Satan</name>
+	</book>
+	<book>
+		<id>Rolls</id>
+		<name>Book of the Rolls</name>
+	</book>
+	<book>
+		<id>SinSol</id>
+		<name>Sin of Solomon</name>
+	</book>
+	<book>
+		<id>SyrApEzra</id>
+		<name>Syriac Apocalypse of Ezra</name>
+	</book>
+	<book>
+		<id>Bee</id>
+		<name>Book of the Bee</name>
+	</book>
+	<book>
+		<id>QuesQueen</id>
+		<name>Questions Addressed by the Queen (of Sheeba) and Answers Given by Solomon</name>
+	</book>
+	<book>
+		<id>1AdamEve</id>
+		<name>I Adam and Eve</name>
+		<name>IAdam and Eve</name>
+		<name>1 Adam and Eve</name>
+		<name>1Adam and Eve</name>
+	</book>
+	<book>
+		<id>2AdamEve</id>
+		<name>II Adam and Eve</name>
+		<name>IIAdam and Eve</name>
+		<name>2 Adam and Eve</name>
+		<name>2Adam and Eve</name>
+	</book>
+
+</collection>
